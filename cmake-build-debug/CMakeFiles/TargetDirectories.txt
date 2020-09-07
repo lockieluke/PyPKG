@@ -1,0 +1,3 @@
+C:/Users/Way Luk/CLionProjects/PyPKG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Way Luk/CLionProjects/PyPKG/cmake-build-debug/CMakeFiles/PyPKG.dir
+C:/Users/Way Luk/CLionProjects/PyPKG/cmake-build-debug/CMakeFiles/rebuild_cache.dir

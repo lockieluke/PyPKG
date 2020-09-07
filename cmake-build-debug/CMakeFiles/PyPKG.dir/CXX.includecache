@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Way Luk/CLionProjects/PyPKG/console.h
+windows.h
+-
+
+C:/Users/Way Luk/CLionProjects/PyPKG/main.cpp
+windows.h
+-
+commctrl.h
+-
+iostream
+-
+main.h
+C:/Users/Way Luk/CLionProjects/PyPKG/main.h
+string
+-
+console.h
+C:/Users/Way Luk/CLionProjects/PyPKG/console.h
+filesystem
+-
+
+C:/Users/Way Luk/CLionProjects/PyPKG/main.h
+
